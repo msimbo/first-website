@@ -1,0 +1,25 @@
+body {
+    margin-top: -13px;  // offset to mimic original pages
+}
+
+p, dd {
+	background-color: #EEE;
+}
+
+a:link {
+	color: #2F3;  // green
+}
+
+a:hover,
+a:visited:hover {
+	color: orange;
+}
+
+a:active,
+a:visited:active {
+	color: red;
+}
+
+a:visited {
+	color: brown;
+}
