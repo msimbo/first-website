@@ -1,21 +1,35 @@
-# First Website
-Designing our own info.cern.ch
+# The First Website
+A replica of info.cern.ch
 
 ## General Info
-Recreating the first website with our own design.
-* [First Website](http://info.cern.ch/hypertext/WWW/TheProject.html)
-
-## Technologies
-Project is created with:
+We recreated the first [website](http://info.cern.ch/hypertext/WWW/TheProject.html
+ with slight stylistic adjustments. However, due to the hundreds of links, this replica
+ only descends one level, including pages for the following categories and a few others.
+ 
+- What's out there
+- Software
+- Technical
+- Getting code
+- Help
+- People
+- How you can help
+- History
+- Bibliography
+ 
+## Languages
+Project was created with:
 * HTML
 * CSS
 
 ## Sources
-This project is inspired by Tim Berners-Lee, a British scientist, who created the first website, while working at CERN.
+This project is inspired by Tim Berners-Lee, a British physicist, who created the first 
+website, while working at CERN, a particle physics lab in Switzerland.
 * [Birthplace of the Web](https://home.cern/science/computing/birth-web)
 
-## Contacts
+## Contributors
 * David Khem
 * Casey Geist
 * Peter Lin-Marcus
 * Rodrigue Abellard
+
+
