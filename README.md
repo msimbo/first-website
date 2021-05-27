@@ -4,7 +4,7 @@ A replica of info.cern.ch
 ## General Info
 We recreated the first [website](http://info.cern.ch/hypertext/WWW/TheProject.html)
  with slight stylistic adjustments. However, due to the hundreds of links, this replica
- only descends one level, including pages for the following categories and a few others.
+ only descends one level, including pages for the following categories:
 
 - Hypermedia
 - Summary
@@ -35,9 +35,23 @@ Project was created with:
 * HTML
 * CSS
 
-## Tool
+## Tools
 * PhpStorm
 * GitHub
+
+## Process
+We replicated the main page and the pages accessible through the 25 links.  
+We created the link by using the following attribute:  
+`<a href="url">Link Text</a>`
+
+We also used:
+<h1></h1>     Heading 1
+<h2></h2>     Heading 2
+<body></body> Body
+<p></p>       Paragraph
+<dt></dt>     Definition Term
+<dd></dd>     Definition Data
+<xmp></xmp>   Extensible Metadata Platform
 
 ## Sources
 This project is inspired by Tim Berners-Lee, a British physicist, who created the first 
