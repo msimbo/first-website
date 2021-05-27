@@ -21,6 +21,9 @@ Project was created with:
 * HTML
 * CSS
 
+## Tool
+* PhpStorm
+
 ## Sources
 This project is inspired by Tim Berners-Lee, a British physicist, who created the first 
 website, while working at CERN, a particle physics lab in Switzerland.
@@ -29,7 +32,6 @@ website, while working at CERN, a particle physics lab in Switzerland.
 ## Contributors
 * David Khem
 * Casey Geist
-* Peter Lin-Marcus
 * Rodrigue Abellard
 
 
