@@ -1,16 +1,37 @@
+
+
+#icandy {
+	background-image: url("planet-earth.jpg");
+	background-repeat: no-repeat;
+	background-color: transparent;
+	position: absolute;
+	top: 370px;
+	left: 440px;
+	width: 275px;
+	height: 275px;
+}
+
 body {
     margin-top: -13px;  // offset to mimic original pages
 }
 
 p, dd {
+	display: table;
 	background-color: #EEE;
 }
 
-a:link {
-	color: #2F3;  // green
+xmp {
+	margin-left: 187px;
 }
 
-a:hover,
+a:link {
+	color: #017541;  // greenish
+}
+
+a:hover {
+	color: #0E0;	// bright green
+}
+
 a:visited:hover {
 	color: orange;
 }
@@ -21,5 +42,6 @@ a:visited:active {
 }
 
 a:visited {
-	color: brown;
+	color: #972;	//  light brownish
 }
+
