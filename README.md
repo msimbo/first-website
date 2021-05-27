@@ -56,7 +56,9 @@ Extensible Metadata Platform  (xmp)
 ## Sources
 This project is inspired by Tim Berners-Lee, a British physicist, who created the first 
 website, while working at CERN, a particle physics lab in Switzerland.
-* [Birthplace of the Web](https://home.cern/science/computing/birth-web)
+* [Birthplace of the Web](https://home.cern/science/computing/birth-web)  
+* DeveloperMozilla.org as a reference for HTML and CSS
+
 
 ## Code Warriors
 * David Khem
