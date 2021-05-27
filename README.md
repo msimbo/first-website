@@ -2,7 +2,7 @@
 A replica of info.cern.ch
 
 ## General Info
-We recreated the first [website](http://info.cern.ch/hypertext/WWW/TheProject.html
+We recreated the first [website](http://info.cern.ch/hypertext/WWW/TheProject.html)
  with slight stylistic adjustments. However, due to the hundreds of links, this replica
  only descends one level, including pages for the following categories and a few others.
  
