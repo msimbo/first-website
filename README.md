@@ -44,14 +44,14 @@ We replicated the main page and the pages accessible through the 25 links.
 We created the link by using the following attribute:  
 `<a href="url">Link Text</a>`
 
-We also used:
-<h1></h1>     Heading 1
-<h2></h2>     Heading 2
-<body></body> Body
-<p></p>       Paragraph
-<dt></dt>     Definition Term
-<dd></dd>     Definition Data
-<xmp></xmp>   Extensible Metadata Platform
+We also used:  
+Heading 1           (h1)  
+Heading 2           (h2)  
+Body                (body)  
+Paragraph           (p)  
+Definition Term     (dt)  
+Definition Data     (dd)  
+Extensible Metadata Platform  (xmp)
 
 ## Sources
 This project is inspired by Tim Berners-Lee, a British physicist, who created the first 
