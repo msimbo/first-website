@@ -25,12 +25,12 @@ and the stylesheet. Git version control was well utilized for merging our work t
 and pulling/pushing the latest changes.
 
 ## Process
-We replicated the main page and the pages accessible through the 25 links.  We found there were some
+We replicated the main page and the 23 linked pages one at a time.  We found there were some
 formatting errors, but for the most part kept them in order to stay true to the original.
 
 We also employed some uncommon HTML tags, such as:     
 Definition List/Term/Data     (DL) / (DT) / (DD)  
-Extensible Metadata Platform  (XMP)
+Extensible Metadata Platform  (XMP)  
 And we set alternative link colors (green, red, and brown/orange).
 
 ## Languages, Tools and Resources
@@ -43,7 +43,7 @@ Project was created with:
 
 ## Sources
 This project was inspired by Sir Tim Berners-Lee.  Tim is a computer scientist from England who started the very first 
-website while working at CERN, a particle physics lab in Switzerland.  He is a professor at MIT in Cambridge, MA.
+website while working for CERN, a particle physics lab in Switzerland.  He is a professor at MIT in Cambridge, MA.  
 [Birthplace of the Web](https://home.cern/science/computing/birth-web)
 
 ## Team members / Contributors
